@@ -8,6 +8,9 @@ This repository uses **Bayesian Optimization** with **Gaussian Process Regressio
 - **Input (Inner Diameter in nm)**: 1.5, 3.0, 4.5, 6.0, 7.5, 9.0, 10.5, 12.0
 - **Output (Thermal Conductivity in W/mK)**: 375, 450, 475, 510, 525, 515, 505, 495
 
+![image](https://github.com/user-attachments/assets/bd5c577f-1fff-4f6d-8a70-79b417980248)
+
+
 The script fits a Gaussian Process model to these data points and predicts the inner diameters that yield the maximum and minimum thermal conductivity.
 
 ## Requirements:
