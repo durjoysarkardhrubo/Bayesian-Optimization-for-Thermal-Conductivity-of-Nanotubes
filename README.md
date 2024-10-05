@@ -1,6 +1,9 @@
 # Bayesian-Optimization-for-Thermal-Conductivity-of-Nanotubes
 This repository implements Bayesian Optimization using Gaussian Process Regression to predict the inner diameter of nanotubes for maximum and minimum thermal conductivity based on experimental data. The dataset includes eight inner diameters (in nm) and their corresponding thermal conductivity (in W/mK)
 # Bayesian Optimization for Thermal Conductivity of Nanotubes
+![image](https://github.com/user-attachments/assets/efdfade3-98b5-4ce1-b339-316b645935a0)
+
+
 
 This repository uses **Bayesian Optimization** with **Gaussian Process Regression (GPR)** to predict the inner diameter of nanotubes that gives the maximum and minimum thermal conductivity. The code is based on a dataset containing eight inner diameter values and their corresponding thermal conductivity measurements. 
 
